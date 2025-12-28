@@ -1,6 +1,15 @@
 # SpaceShooting
+<img width="80%" height="80%" alt="Title" src="https://github.com/user-attachments/assets/2babdb37-302b-4726-beeb-c4eeba0f5935" />
 
 1年生の時の作品展に出展した、DxLibを使用したシューティングゲームです。
+
+---
+
+### 📄 プログラム紹介資料
+ゲームの概要やプログラムの解説をまとめたPDF資料を公開しています。
+**[こちらのPDFをご覧ください](./Introduction_SpaceShooting.pdf)**
+
+---
 
 ## 🎮 ゲーム概要
 * **ジャンル**: 2D縦スクロールシューティング
