@@ -7,7 +7,7 @@
 
 ### 📄 プログラム紹介資料
 ゲームの概要やプログラムの解説をまとめたPDF資料を公開しています。
-**[こちらのPDFをご覧ください](./Introduction_SpaceShootingGame.pdf)**
+**[こちらのPDFをご覧ください](./作品紹介_SpaceShootingGame.pdf)**
 
 ---
 
